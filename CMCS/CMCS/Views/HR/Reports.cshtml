@@ -1,0 +1,108 @@
+﻿@model CMCS.ViewModels.ReportViewModel
+
+@{
+    ViewData["Title"] = "Generate Reports";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+                <h4 class="mb-0">Report Criteria</h4>
+            </div>
+            <div class="card-body">
+                <form asp-action="GenerateReport" method="post">
+                    @Html.AntiForgeryToken()
+
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="StartDate" class="form-label fw-bold">Start Date</label>
+                                <input asp-for="StartDate" type="date" class="form-control" />
+                                <span asp-validation-for="StartDate" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="EndDate" class="form-label fw-bold">End Date</label>
+                                <input asp-for="EndDate" type="date" class="form-control" />
+                                <span asp-validation-for="EndDate" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="Status" class="form-label fw-bold">Claim Status</label>
+                                <select asp-for="Status" class="form-control">
+                                    <option value="All">All Statuses</option>
+                                    <option value="Pending">Pending</option>
+                                    <option value="Approved">Approved</option>
+                                    <option value="Rejected">Rejected</option>
+                                </select>
+                                <span asp-validation-for="Status" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="LecturerId" class="form-label fw-bold">Lecturer (Optional)</label>
+                                <select asp-for="LecturerId" class="form-control">
+                                    <option value="">All Lecturers</option>
+                                    <!-- This would be populated with lecturers from database -->
+                                </select>
+                                <span asp-validation-for="LecturerId" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            <i class="fas fa-chart-bar"></i> Generate Report
+                        </button>
+                        <a href="@Url.Action("Users")" class="btn btn-secondary">Back to Users</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header bg-secondary text-white">
+                <h5 class="mb-0">Report Types</h5>
+            </div>
+            <div class="card-body">
+                <h6>Available Reports:</h6>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        <strong>Claims Summary</strong>
+                        <br><small class="text-muted">Overview of all claims within date range</small>
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Approved Claims</strong>
+                        <br><small class="text-muted">Claims ready for payment processing</small>
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Pending Claims</strong>
+                        <br><small class="text-muted">Claims awaiting approval</small>
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Lecturer Performance</strong>
+                        <br><small class="text-muted">Claims by individual lecturers</small>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mt-3">
+        <form asp-action="AddTestClaims" method="post" class="d-inline">
+            @Html.AntiForgeryToken()
+            <button type="submit" class="btn btn-warning">
+                <i class="fas fa-vial"></i> Add Test Claims
+            </button>
+        </form>
+    </div>
+</div>
