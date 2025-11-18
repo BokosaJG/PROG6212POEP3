@@ -91,4 +91,80 @@ namespace CMCS.Data
             SeedData(builder);
         }
 
+        private void SeedData(ModelBuilder builder)
+        {
+            // Seed users
+            var users = new[]
+            {
+                new ApplicationUser
+                {
+                    Id = "1",
+                    UserName = "lecturer@cmcs.com",
+                    NormalizedUserName = "LECTURER@CMCS.COM",
+                    Email = "lecturer@cmcs.com",
+                    NormalizedEmail = "LECTURER@CMCS.COM",
+                    FirstName = "John",
+                    LastName = "Lecturer",
+                    Role = "Lecturer",
+                    HourlyRate = 150,
+                    EmailConfirmed = true,
+                    PasswordHash = GetPasswordHash("Lecturer123!"),
+                    SecurityStamp = Guid.NewGuid().ToString()
+                },
+                new ApplicationUser
+                {
+                    Id = "2",
+                    UserName = "coordinator@cmcs.com",
+                    NormalizedUserName = "COORDINATOR@CMCS.COM",
+                    Email = "coordinator@cmcs.com",
+                    NormalizedEmail = "COORDINATOR@CMCS.COM",
+                    FirstName = "Jane",
+                    LastName = "Coordinator",
+                    Role = "Coordinator",
+                    HourlyRate = 200,
+                    EmailConfirmed = true,
+                    PasswordHash = GetPasswordHash("Coordinator123!"),
+                    SecurityStamp = Guid.NewGuid().ToString()
+                },
+                new ApplicationUser
+                {
+                    Id = "3",
+                    UserName = "manager@cmcs.com",
+                    NormalizedUserName = "MANAGER@CMCS.COM",
+                    Email = "manager@cmcs.com",
+                    NormalizedEmail = "MANAGER@CMCS.COM",
+                    FirstName = "Bob",
+                    LastName = "Manager",
+                    Role = "Manager",
+                    HourlyRate = 250,
+                    EmailConfirmed = true,
+                    PasswordHash = GetPasswordHash("Manager123!"),
+                    SecurityStamp = Guid.NewGuid().ToString()
+                },
+                new ApplicationUser
+                {
+                    Id = "4",
+                    UserName = "hr@cmcs.com",
+                    NormalizedUserName = "HR@CMCS.COM",
+                    Email = "hr@cmcs.com",
+                    NormalizedEmail = "HR@CMCS.COM",
+                    FirstName = "HR",
+                    LastName = "Administrator",
+                    Role = "HR",
+                    HourlyRate = 0,
+                    EmailConfirmed = true,
+                    PasswordHash = GetPasswordHash("HR123!"),
+                    SecurityStamp = Guid.NewGuid().ToString()
+                }
+            };
+
+            builder.Entity<ApplicationUser>().HasData(users);
+        }
+
+        private string GetPasswordHash(string password)
+        {
+            var passwordHasher = new PasswordHasher<ApplicationUser>();
+            return passwordHasher.HashPassword(null, password);
+        }
+    }
 }
