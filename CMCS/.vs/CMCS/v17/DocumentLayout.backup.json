@@ -130,8 +130,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -142,8 +146,7 @@
               "RelativeToolTip": "CMCS\\Controllers\\HRController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:54:11.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T20:54:11.796Z"
             },
             {
               "$type": "Document",
@@ -155,8 +158,7 @@
               "RelativeToolTip": "CMCS\\Views\\HR\\ReportResult.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T21:48:49.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T21:48:49.765Z"
             },
             {
               "$type": "Document",
@@ -190,7 +192,7 @@
               "RelativeDocumentMoniker": "CMCS\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\AccountController.cs",
               "RelativeToolTip": "CMCS\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T20:53:48.405Z",
               "EditorCaption": ""
@@ -205,8 +207,7 @@
               "RelativeToolTip": "CMCS\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:32:28.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T20:32:28.856Z"
             },
             {
               "$type": "Document",
@@ -218,8 +219,7 @@
               "RelativeToolTip": "CMCS\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAHwAAAAAzMzMzMwRwI0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:30:51.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T20:30:51.361Z"
             },
             {
               "$type": "Document",
@@ -496,10 +496,6 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-18T20:32:51.784Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
