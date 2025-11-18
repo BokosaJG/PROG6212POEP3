@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\views\\hr\\reportresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\views\\hr\\reportresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\views\\hr\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\views\\hr\\debugdatabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\views\\hr\\debugdatabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\models\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\views\\hr\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC6C3310-FDC9-45D1-A3E5-D0D554CA0AFF}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\prog6212\\cmcs\\cmcs\\models\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,51 +130,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HRController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\HRController.cs",
               "RelativeDocumentMoniker": "CMCS\\Controllers\\HRController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\HRController.cs",
               "RelativeToolTip": "CMCS\\Controllers\\HRController.cs",
-              "ViewState": "AgIAAPcAAAAAAAAAAAAuwBEBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:54:11.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reports.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\Reports.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\HR\\Reports.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\Reports.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\HR\\Reports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T21:36:22.552Z"
+              "WhenOpened": "2025-11-18T20:54:11.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DebugDatabase.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\DebugDatabase.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\HR\\DebugDatabase.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\DebugDatabase.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\HR\\DebugDatabase.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwDoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T22:55:27.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ReportResult.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\ReportResult.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\HR\\ReportResult.cshtml",
@@ -187,31 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReportViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Models\\ViewModels\\ReportViewModel.cs",
-              "RelativeDocumentMoniker": "CMCS\\Models\\ViewModels\\ReportViewModel.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Models\\ViewModels\\ReportViewModel.cs",
-              "RelativeToolTip": "CMCS\\Models\\ViewModels\\ReportViewModel.cs",
-              "ViewState": "AgIAAAwAAACgzMzMzMwkwBMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:53:21.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\EditUser.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\HR\\EditUser.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\EditUser.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\HR\\EditUser.cshtml",
-              "ViewState": "AgIAADAAAACcmZmZmZkuwEsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T21:37:54.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ClaimViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Models\\ViewModels\\ClaimViewModel.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\ViewModels\\ClaimViewModel.cs",
@@ -223,7 +172,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Program.cs",
+              "RelativeDocumentMoniker": "CMCS\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Program.cs",
+              "RelativeToolTip": "CMCS\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAODMzM7MSwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:34:47.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CMCS\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CMCS\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAEAAACAmZmZmRkmwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:53:48.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CMCS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CMCS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAALwAAAAA//////8mwE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:32:28.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CMCS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CMCS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:30:51.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\HR\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\EditUser.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\HR\\EditUser.cshtml",
+              "ViewState": "AgIAADAAAACcmZmZmZkuwEsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T21:37:54.416Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Models\\ViewModels\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "CMCS\\Models\\ViewModels\\ReportViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Models\\ViewModels\\ReportViewModel.cs",
+              "RelativeToolTip": "CMCS\\Models\\ViewModels\\ReportViewModel.cs",
+              "ViewState": "AgIAAAwAAACgzMzMzMwkwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:53:21.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DebugDatabase.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\DebugDatabase.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\HR\\DebugDatabase.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\DebugDatabase.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\HR\\DebugDatabase.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T22:55:27.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\Reports.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\HR\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\Reports.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\HR\\Reports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T21:36:22.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CreateUser.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\CreateUser.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\HR\\CreateUser.cshtml",
@@ -235,19 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CMCS\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CMCS\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAG4AAAAAMTMzM/MmwH4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:30:51.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Users.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\HR\\Users.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\HR\\Users.cshtml",
@@ -259,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApprovalViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Models\\ViewModels\\ApprovalViewModel.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\ViewModels\\ApprovalViewModel.cs",
@@ -271,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\ApplicationUser.cs",
@@ -283,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "MyClaims.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\Home\\MyClaims.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Home\\MyClaims.cshtml",
@@ -295,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "PendingClaims.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\Home\\PendingClaims.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Home\\PendingClaims.cshtml",
@@ -307,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "SubmitClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\Home\\SubmitClaim.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Home\\SubmitClaim.cshtml",
@@ -319,19 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Program.cs",
-              "RelativeDocumentMoniker": "CMCS\\Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Program.cs",
-              "RelativeToolTip": "CMCS\\Program.cs",
-              "ViewState": "AgIAAAsAAACAzczMzEwgwHEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:34:47.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Shared\\_Layout.cshtml",
@@ -340,30 +365,6 @@
               "ViewState": "AgIAADwAAAAAAAAAAAAcwFcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-18T20:56:16.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CMCS\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CMCS\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:32:28.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "CMCS\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\PROG6212\\CMCS\\CMCS\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "CMCS\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:53:48.405Z"
             },
             {
               "$type": "Document",
@@ -496,6 +497,10 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-18T20:32:51.784Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
