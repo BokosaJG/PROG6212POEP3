@@ -1,0 +1,47 @@
+﻿@model List<CMCS.ViewModels.UserViewModel>
+
+@{
+    ViewData["Title"] = "Manage Users";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+<div class="mb-3">
+    <a href="@Url.Action("CreateUser")" class="btn btn-success">Create New User</a>
+    <a href="@Url.Action("Reports", "HR")" class="btn btn-info">Generate Reports</a>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Hourly Rate</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.FirstName @user.LastName</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>R @user.HourlyRate</td>
+                <td>
+                    <a href="@Url.Action("EditUser", new { id = user.Id })" class="btn btn-sm btn-primary">Edit</a>
+                    <form asp-action="ResetPassword" method="post" class="d-inline">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-sm btn-warning">Reset Password</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

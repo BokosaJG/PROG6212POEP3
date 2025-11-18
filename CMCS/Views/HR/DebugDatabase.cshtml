@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Database Debug";
+}
+
+<h2>Database Debug Information</h2>
+
+<h3>Users (@ViewBag.Users.Count)</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Hourly Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in ViewBag.Users)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.FirstName @user.LastName</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>R @user.HourlyRate</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Claims (@ViewBag.Claims.Count)</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Lecturer</th>
+            <th>Hours</th>
+            <th>Rate</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Submission Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in ViewBag.Claims)
+        {
+            <tr>
+                <td>@claim.Id</td>
+                <td>@claim.LecturerName</td>
+                <td>@claim.HoursWorked</td>
+                <td>R @claim.HourlyRate</td>
+                <td>R @claim.TotalAmount</td>
+                <td>@claim.Status</td>
+                <td>@claim.SubmissionDate</td>
+            </tr>
+        }
+    </tbody>
+</table>

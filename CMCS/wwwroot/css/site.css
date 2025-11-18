@@ -1,0 +1,30 @@
+/* Custom styles for CMCS */
+.claim-status-pending {
+    color: #856404;
+    background-color: #fff3cd;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+}
+
+.claim-status-approved {
+    color: #155724;
+    background-color: #d4edda;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+}
+
+.claim-status-rejected {
+    color: #721c24;
+    background-color: #f8d7da;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+}
+
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.btn {
+    border-radius: 0.25rem;
+}
