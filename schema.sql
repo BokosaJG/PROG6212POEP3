@@ -1,2 +1,0 @@
--- SCHEMA SCRIPT
-CREATE TABLE Test(Id int);
